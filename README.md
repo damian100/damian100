@@ -64,3 +64,4 @@ Intel VT-x와 EPT를 활용해 하이퍼바이저 계층에서 실행 흐름과 
 
 - Portfolio: https://damian100.github.io/
 - GitHub: https://github.com/damian100
+- Mail : lsu011127@gmail.com
