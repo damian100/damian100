@@ -15,13 +15,21 @@ Reverse Engineering과 시스템 보안을 공부하고 있습니다. Android �
 
 ## Projects
 
+### TRUST-TRIAGE
+
+Windows 실행 파일의 분석 결과를 연결해 심층분석과 분석가 검토를 지원하는 KISIA 5인 팀 프로젝트입니다.
+
+- 참여 기간: 2026.07 - 현재
+- 담당: PE 특징 추출 및 정적·동적 심층분석 자동화 기능 개발
+- [프로젝트 저장소](https://github.com/except-04/trust-triage)
+
 ### Damian Debugger
 
-Intel VT-x와 EPT를 활용해 하이퍼바이저 계층에서 실행 흐름과 메모리 접근을 관찰하는 디버거 구조를 공부하며 구현하고 있습니다.
+Intel VMX 기반 Windows x64 디버깅·분석 도구를 목표로 진행하는 개인 프로젝트입니다.
 
-- VM-exit 기반 이벤트 처리 흐름 학습
-- EPT hook을 이용한 메모리 접근 감시 구조 학습
-- 디스어셈블리, 레지스터, 메모리, 스택 상태를 확인하는 분석 UI 구성
+- 진행 기간: 2026년 초 - 현재
+- 본인 역할: 기능 기획과 구조·작동 방식의 방향 제안
+- 저수준 구현은 학습 중입니다.
 
 ### Reversing CTF Problems
 
@@ -56,9 +64,9 @@ Intel VT-x와 EPT를 활용해 하이퍼바이저 계층에서 실행 흐름과 
 
 ## Certifications
 
+- 정보보안기사
 - 리눅스마스터 1급
-- 정보보안기사 필기 합격, 실기 준비 중
-- 정보처리기사 필기 합격, 실기 준비 중
+- SQL 개발자(SQLD)
 
 ## Links
 
